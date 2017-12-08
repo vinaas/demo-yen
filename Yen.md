@@ -1,10 +1,16 @@
 
-## h2
+## 1. Đăng ký account  
+- Đăng ký account của github.com, gitlab.com (tài liệu cá nhân, không public)
+- tạo repository cho mình, cho phép tạo nhiều repo
 
-### đối sang h3
+## 2. Cài ứng dụng trên máy
+- git client: [download link](https://gitextensions.github.io/)
+- công cụ gõ văn bản tối ưu
+  - vs code, [link](https://code.visualstudio.com/)
+  - cài thêm extension để chuyển đổi sang **PDF**
 
-- thêm tấm hình
-- ![tenbuchinh](https://i-thethao.vnecdn.net/2017/12/08/top-1512686572_500x300.jpg)
 
-### h3 thêm mới
-- tính toán
+
+
+
+
